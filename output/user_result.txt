@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-23 18:21:39,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-08-24 06:21:20,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -76,8 +76,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -103,7 +103,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -112,18 +111,17 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
@@ -134,7 +132,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -170,19 +167,27 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 超级体育,http://36.105.100.208:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://xiaoya.crccxw.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🪁动画频道,#genre#
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
-卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
+少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
@@ -196,7 +201,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-炫动卡通,http://nas.hssvm.com:8888/udp/225.1.1.62:5002
 炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
@@ -206,6 +210,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225583/iptv7982.smil
+炫动卡通,rtsp://115.153.212.72/PLTV/88888888/224/3221225583/iptv7982.smil
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
@@ -221,6 +227,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
