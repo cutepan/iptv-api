@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-13 06:24:50,https://migu.188766.xyz/?migutoken=3f5ecedb6a9d946fbb8762dea69f2d73&id=CCTV3&pp=1
+2025-09-13 18:24:44,https://migu.188766.xyz/?migutoken=3f5ecedb6a9d946fbb8762dea69f2d73&id=CCTV3&pp=1
 
 📺央视频道,#genre#
 CCTV-3,https://migu.188766.xyz/?migutoken=3f5ecedb6a9d946fbb8762dea69f2d73&id=CCTV3&pp=1
@@ -12,10 +12,8 @@ CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,https://migu.188766.xyz/?migutoken=3f9f566d8b8f42bed9133d5bbf9f5efa&id=CCTV15&pp=1
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
-CCTV-16,https://mursor.ottiptv.cc/mcp/cctv16.m3u8?sign=123cce6b073d4227fc1efe8ff22bdc51&tm=1757443317
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
-CETV-1,https://mursor.ottiptv.cc/mcp/cetv1.m3u8?sign=956a93dd52103b87aa974469ae471069&tm=1757443317
 CETV-2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
 
@@ -26,10 +24,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 电视指南,https://cc06.tv12.xyz/39.m3u8
 
 📡卫视频道,#genre#
-广东卫视,https://mursor.ottiptv.cc/mcp/guangdong.m3u8?sign=5e7e19254bc03ea0dfa0093dede2d008&tm=1757443317
-广东卫视,https://migu.188766.xyz/?migutoken=90778652a11b4bb01cd98a07e3fcf924&id=gdws&type=sz
+香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
 浙江卫视,https://mursor.ottiptv.cc/mcp/zhejiang.m3u8?sign=826e6dd580d9bb6b4e0211b465e6032e&tm=1757443317
 湖南卫视,https://mursor.ottiptv.cc/mcp/hunan.m3u8?sign=1f068bf5658d47f83018ef8707d057f7&tm=1757443317
+湖南卫视,https://migu.188766.xyz/?migutoken=2ab226176122fc0f63c137fbefd4a496&id=hunws&type=sz
 北京卫视,https://migu.188766.xyz/?migutoken=65c84621087220797980fa9982c3f8b5&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 黑龙江卫视,https://migu.188766.xyz/?migutoken=2cc0a1bfa6232c875ca39790aa5a03a1&id=hljws&type=sz
 安徽卫视,https://migu.188766.xyz/?migutoken=a7913c7323c9782d538859f82596273e&id=ahws&type=sz
@@ -46,7 +44,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 吉林卫视,https://mursor.ottiptv.cc/mcp/jiling.m3u8?sign=b93e799bbf8ac138fbd4e7b88d87a4cd&tm=1757443317
 吉林卫视,https://migu.188766.xyz/?migutoken=8e6958c0c8ae0b8ec9762473fb9ecfe7&id=jlws&type=sz
 江苏卫视,https://mursor.ottiptv.cc/mcp/jiangsu.m3u8?sign=ec371aca4742d9ef9d9134cadd15676e&tm=1757443317
-江西卫视,https://migu.188766.xyz/?migutoken=ec5db662362dfc44c29d19ebabd3b6f7&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 江西卫视,https://mursor.ottiptv.cc/mcp/jiangxi.m3u8?sign=d6201346c3fd89daeac6de297bf347fa&tm=1757535222
 辽宁卫视,https://mursor.ottiptv.cc/mcp/liaoning.m3u8?sign=4808545411ecb62df7a07fff3e4c3eda&tm=1757535222
 辽宁卫视,https://migu.188766.xyz/?migutoken=4cc22e839ae91f747163d3e6baeb5235&id=lnws&type=sz
@@ -55,26 +52,34 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 青海卫视,https://migu.188766.xyz/?migutoken=b2fcb8b05c77ad4575e5d21c34a472f1&id=qhws&type=sz
 山东卫视,https://mursor.ottiptv.cc/mcp/shandong.m3u8?sign=0fdfc785871de1393283800c4870cf77&tm=1757535222
 山西卫视,https://migu.188766.xyz/?migutoken=d19a8a8696d302bfe8594ddd13df0033&id=sxws&type=sz
-陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8?sign=bf7b4e807c95661c3aab4df58ed48350&tm=1757535222
+四川卫视,https://migu.188766.xyz/?migutoken=34f1375aa1129ed239293e1079ef6150&id=scws&type=sz
 深圳卫视,https://mursor.ottiptv.cc/mcp/shenzheng.m3u8?sign=88b7b7d81123a1316352d1774be79be5&tm=1757443317
+深圳卫视,https://migu.188766.xyz/?migutoken=d599d6f5e5b4efcaebf2cf1ebae49f4b&id=szws&type=sz
 天津卫视,https://mursor.ottiptv.cc/mcp/tianjing.m3u8?sign=9850cbc93d9df79f5463733bb9a96545&tm=1757443317
+天津卫视,https://migu.188766.xyz/?migutoken=1665d3fad67963a78836e756dd3134ad&id=tjws&type=sz
 西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8?sign=45d4f331250f19f33022acb9b6d4b9e5&tm=1757443317
 新疆卫视,https://mursor.ottiptv.cc/mcp/xinjiang.m3u8?sign=0c1a09de84865a8052764461baa09a36&tm=1757443317
 云南卫视,https://mursor.ottiptv.cc/mcp/yunnan.m3u8?sign=7eae58140852d3119a78ef3ad6ce3a33&tm=1757443317
+云南卫视,https://migu.188766.xyz/?migutoken=5b3bfb955dbb784b064f4da72927c10d&id=ynws&type=sz
 
 ☘️广东频道,#genre#
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 
 🌊港·澳·台,#genre#
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,https://migu.188766.xyz/?migutoken=c829574a87c8c2814089f2fb91ab5e1c&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠台,https://migu.188766.xyz/?migutoken=684d9a029e27c2f4ceaf70715b22e45e&id=pearl_twn&type=dy
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰中文,https://migu.188766.xyz/?migutoken=42da77bdf8be3231d1f9a85678965047&id=fhzw&pp=1
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://migu.188766.xyz/?migutoken=148632f006c6df23064069eeeef15209&id=fhzx&pp=1
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+凤凰香港,https://migu.188766.xyz/?migutoken=cbf8f4f16f7ccdc07d7ccd8f9b012692&id=fhhk&pp=1
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -83,12 +88,13 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
 🎬电影频道,#genre#
-CHC家庭影院,https://migu.188766.xyz/
+天映经典,https://migu.188766.xyz/?migutoken=74f064171c9cea8fcdf304e018638217&id=Celestial2&type=dy
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+五星体育,https://migu.188766.xyz/?migutoken=6fa12e2c5a8733ea71f8f4d5bb88fcb5&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 江苏体育,https://migu.188766.xyz/?migutoken=297326d243b7f075866d2df520c3a037&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
@@ -105,4 +111,5 @@ CHC家庭影院,https://migu.188766.xyz/
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+天龙八部,https://live.metshop.top/huya/23903123
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
