@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-19 06:26:35,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+2025-09-19 18:32:26,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
@@ -8,25 +8,19 @@ CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b4381
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
+女性时尚,https://cc06.tv12.xyz/95.m3u8
+电视指南,https://cc06.tv12.xyz/39.m3u8
 
 📡卫视频道,#genre#
-重庆卫视,https://mursor.ottiptv.cc/mcp/chongqing.m3u8?sign=baea7b4c4e89656d11dddcc40f3eddbf&tm=1757535222
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,https://mursor.ottiptv.cc/mcp/henan.m3u8?sign=944ff426f5a6617fec1c7f7e09e27b5a&tm=1757443317
-江西卫视,https://mursor.ottiptv.cc/mcp/jiangxi.m3u8?sign=d6201346c3fd89daeac6de297bf347fa&tm=1757535222
-辽宁卫视,https://mursor.ottiptv.cc/mcp/liaoning.m3u8?sign=4808545411ecb62df7a07fff3e4c3eda&tm=1757535222
-宁夏卫视,https://mursor.ottiptv.cc/mcp/ningxia.m3u8?sign=d25b1cc2ce35b1da35fbbeaf2315ab79&tm=1757535222
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
-新疆卫视,https://mursor.ottiptv.cc/mcp/xinjiang.m3u8?sign=0c1a09de84865a8052764461baa09a36&tm=1757443317
-云南卫视,https://mursor.ottiptv.cc/mcp/yunnan.m3u8?sign=7eae58140852d3119a78ef3ad6ce3a33&tm=1757443317
 
 ☘️广东频道,#genre#
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
@@ -49,6 +43,8 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
 🎬电影频道,#genre#
+CHC家庭影院,https://migu.188766.xyz/
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 🎥咪咕直播,#genre#
@@ -67,3 +63,4 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+天龙八部,https://live.metshop.top/huya/23903123
