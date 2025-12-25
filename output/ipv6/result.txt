@@ -1,22 +1,19 @@
 🕘️更新时间,#genre#
-2025-12-25 18:32:37,https://cdn3.163189.xyz/163189/cctv13
+2025-12-26 06:33:19,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
@@ -27,10 +24,9 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 
 🎬电影频道,#genre#
-纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
-天映经典,https://migu.188766.xyz/
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🎥咪咕直播,#genre#
@@ -41,6 +37,7 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 
 🪁动画频道,#genre#
+中华小当家,https://live.ottiptv.cc/huya/11342413
 经典动漫,https://www.goodiptv.club/yy/22777075
 
 🎮游戏频道,#genre#
@@ -49,5 +46,4 @@ J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 三国演义,https://live.ottiptv.cc/huya/11602081
