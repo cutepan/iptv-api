@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-02-20 18:45:46,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-02-21 06:38:15,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 💰央视付费频道,#genre#
+第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
@@ -42,8 +43,14 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🪁动画频道,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
+中华小当家,https://live.ottiptv.cc/huya/11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
+猫和老鼠,https://live.metshop.top/huya/11352879
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
+漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
@@ -51,3 +58,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
+天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
+封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
+射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
