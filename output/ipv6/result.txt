@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-25 08:13:49,http://r.jdshipin.com/ZQ4kN
+2026-10-25 22:24:12,http://cdn16.123.rr.kg/163189/gzxw
 
 📺央视频道,#genre#
 
@@ -8,6 +8,7 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
+广州新闻,http://cdn16.123.rr.kg/163189/gzxw
 
 🌊港·澳·台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -35,14 +36,15 @@ Viutv,http://r.jdshipin.com/vSJvl
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
+漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
+笑傲江湖,https://live.metshop.top/huya/26355790
 天龙八部,https://live.metshop.top/huya/23903123
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 三国演义,https://live.metshop.top/huya/11602081
@@ -51,5 +53,5 @@ Viutv,http://r.jdshipin.com/vSJvl
 水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
