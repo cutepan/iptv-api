@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-01 09:04:48,https://ysp.lml1971.ccwu.cc/gd_guangdongyingshi/playlist.m3u8
+2026-11-02 00:51:27,https://ysp.lml1971.ccwu.cc/gd_guangdongyidong/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -8,8 +8,6 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东影视,https://ysp.lml1971.ccwu.cc/gd_guangdongyingshi/playlist.m3u8
-广东影视,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BEitaP&tk=zUr4K92Dl6kh
 广东移动,https://ysp.lml1971.ccwu.cc/gd_guangdongyidong/playlist.m3u8
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw
 岭南戏曲,https://ysp.lml1971.ccwu.cc/gd_lingnanxiqu/playlist.m3u8
@@ -29,8 +27,6 @@ Viutv,http://r.jdshipin.com/vSJvl
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
