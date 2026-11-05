@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-05 02:05:30,https://ysp.lml1971.ccwu.cc/gd_guangdongyidong/playlist.m3u8
+2026-11-05 10:18:17,http://cdn16.123.rr.kg/163189/gzxw
 
 📺央视频道,#genre#
 
@@ -8,16 +8,14 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东移动,https://ysp.lml1971.ccwu.cc/gd_guangdongyidong/playlist.m3u8
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw
-岭南戏曲,https://ysp.lml1971.ccwu.cc/gd_lingnanxiqu/playlist.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-Viutv,http://r.jdshipin.com/vSJvl
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
@@ -48,6 +46,7 @@ Viutv,http://r.jdshipin.com/vSJvl
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
 笑傲江湖,https://live.metshop.top/huya/26355790
 天龙八部,https://live.metshop.top/huya/23903123
+鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
