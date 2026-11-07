@@ -1,15 +1,17 @@
 🕘️更新时间,#genre#
-2026-11-07 09:48:08,http://k.061899.xyz/k.php?id=gdys
+2026-11-08 00:17:19,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+河北卫视,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8
 
 ☘️广东频道,#genre#
 广东影视,http://k.061899.xyz/k.php?id=gdys
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw
+岭南戏曲,https://ysp.lml1971.ccwu.cc/gd_lingnanxiqu/playlist.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -28,14 +30,12 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
-七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
-经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
+经典动漫,http://luobo.bkpcp.top/yy/24180320
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
@@ -43,8 +43,8 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.ottiptv.cc/huya/26355790
 笑傲江湖,https://live.metshop.top/huya/26355790
+笑傲江湖,https://live.ottiptv.cc/huya/26355790
 天龙八部,https://live.metshop.top/huya/23903123
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 三国演义,https://live.metshop.top/huya/11602081
@@ -52,9 +52,8 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 水浒传,http://live.ottiptv.cc/huya/26355860
 水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
-新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
-封神榜,http://live.ottiptv.cc/huya/29465849
 封神榜,https://live.ottiptv.cc/huya/29465849
+封神榜,http://live.ottiptv.cc/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
