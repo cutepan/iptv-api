@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-13 02:15:47,https://ysp.lml1971.ccwu.cc/gd_guangdongyingshi/playlist.m3u8
+2026-11-13 10:42:38,https://ysp.lml1971.ccwu.cc/gd_guangdongyingshi/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -22,7 +22,6 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
-纬来电影,http://jp.809899.xyz/smt.php?id=videolandmovie
 无线星河,http://r.jdshipin.com/sXuuD
 
 🎥咪咕直播,#genre#
