@@ -1,16 +1,13 @@
 🕘️更新时间,#genre#
-2026-11-20 03:12:40,https://yshipin.pages.dev/play/cctvfyjc
+2026-11-20 11:07:14,https://ysp.lml1971.ccwu.cc/gd_guangdongyidong/playlist.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-风云剧场,https://yshipin.pages.dev/play/cctvfyjc
 
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东影视,https://ysp.lml1971.ccwu.cc/gd_guangdongyingshi/playlist.m3u8
-广东影视,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BEitaP&tk=zUr4K92Dl6kh
 广东移动,https://ysp.lml1971.ccwu.cc/gd_guangdongyidong/playlist.m3u8
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw
 岭南戏曲,https://ysp.lml1971.ccwu.cc/gd_lingnanxiqu/playlist.m3u8
@@ -33,8 +30,8 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.metshop.top/huya/11352879
